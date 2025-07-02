@@ -1,0 +1,5 @@
+﻿l_english:
+ roleplay_primer_decision: "[GetPlayer.MakeScope.GetCountry.GetAdjectiveNoFormatting] Roleplay Primer"
+ roleplay_primer_decision_desc: "The current state of [GetPlayer.MakeScope.GetCountry.GetNameNoFormatting]."
+
+ country_gets_roleplay_primer_event_tt: "Triggers the #v [GetPlayer.MakeScope.GetCountry.GetAdjectiveNoFormatting] Roleplay Primer#! Event"
